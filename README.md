@@ -1,7 +1,7 @@
 ## Hi, I’m Nícolas Ribeiro
 
 - 👋  I'm 19 years old and I'm in my third semester of computer science!
-- 🌱 I develop web applications through HTML and CSS - Front-End. Interested in studying JS and frameworks.
+- 🌱 I develop web applications through HTML, CSS and JavaScript - Front-End.
 - 💻 Knowledge in Database
 - 📱 Knowledge in UI/UX Design
 - 📫 contact: contato.nicormiranda@gmail.com
