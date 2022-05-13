@@ -2,8 +2,9 @@
 
 - 👋  I'm 19 years old and I'm in my third semester of computer science!
 - 🌱 I develop web applications through HTML, CSS and JavaScript - Front-End.
-- 💻 Knowledge in Database
-- 📱 Knowledge in UI/UX Design
+- 🧰 Knowledge in PHP - Back-end.
+- 💻 Knowledge in Database MySQL/SQL Server.
+- 📱 Knowledge in UI/UX Design.
 - 📫 contact: contato.nicormiranda@gmail.com
 
 <div align="center">
