@@ -4,7 +4,7 @@
 - 🌱 I develop web applications through HTML, CSS and JavaScript - Front-End.
 - 🧰 Knowledge in PHP - Back-end.
 - 💻 Knowledge in Database MySQL/SQL Server.
-- 📱 Knowledge in UI/UX Design.
+- 📱  Knowledge in UI/UX Design.
 - 📫 contact: contato.nicormiranda@gmail.com
 
 <div align="center">
