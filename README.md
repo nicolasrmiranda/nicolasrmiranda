@@ -1,6 +1,6 @@
 ## Hi, I’m Nícolas Ribeiro
 
-- 👋  I'm 19 years old and I'm in my third semester of computer science!
+- 👋 I'm 19 years old and in my fourth semester of computer science!
 - 🌱 I develop web applications through HTML, CSS and JavaScript - Front-End.
 - 🧰 Knowledge in PHP - Back-end.
 - 💻 Knowledge in Database MySQL/SQL Server.
